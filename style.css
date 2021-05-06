@@ -114,12 +114,6 @@ footer a:hover {
     color: #fedc00;
 }
 
-.fa {
-    color: #fecd07;
-    margin: 10px;
-    margin-right: 10px;
-}
-
 @media (max-width: 490px) {
     form.subscribe {
         flex-direction: column;
@@ -133,4 +127,16 @@ footer a:hover {
     .brand p {
         display: none;
     }
+}
+
+.fa {
+    color: #fecd07;
+    margin: 10px;
+    margin-right: 10px;
+}
+
+img {
+    max-width:135px;
+    border-radius: 3%;
+    border: 2px solid #fecd07;
 }
