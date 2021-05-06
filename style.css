@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    text-align: justify;
 }
 
 body {
@@ -111,6 +112,12 @@ footer a {
 
 footer a:hover {
     color: #fedc00;
+}
+
+.fa {
+    color: #fecd07;
+    margin: 10px;
+    margin-right: 10px;
 }
 
 @media (max-width: 490px) {
