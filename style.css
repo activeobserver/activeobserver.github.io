@@ -19,10 +19,8 @@ p {
 }
 
 svg {
-    fill: #fecd07;
-    height: 85px;
-    display: block;
-    margin: auto 25px 0 0;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 .brand p {
@@ -131,11 +129,14 @@ footer a:hover {
 
 .fa {
     color: #fecd07;
-    margin: 10px;
-    margin-right: 10px;
+    margin: 5px;
 }
 
-img {
+img.podcast {
+    background-color: #fecd07;
+}
+
+img.book {
     max-width:135px;
     border-radius: 3%;
     border: 2px solid #fecd07;
