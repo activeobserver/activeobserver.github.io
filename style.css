@@ -5,8 +5,8 @@
 }
 
 body {
-    background: url(./bg.jpg) #111111;
-    color: #d6d6d6;
+    background: #D5E9FB;
+    color: #000000;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     display: flex;
     align-items: center;
@@ -15,7 +15,7 @@ body {
 }
 
 p {
-    color: #d6d6d6;
+    color: #000000;
 }
 
 svg {
@@ -25,7 +25,7 @@ svg {
 
 .brand p {
     font-size: 20px;
-    color: #fff;
+    color: #000000;
     margin-bottom: 2px;
 }
 
@@ -37,16 +37,16 @@ svg {
 
 h1 {
     margin-bottom: 10px;
-    font-size: 45px;
-    color: white;
+    font-size: 30px;
+    color: #000000;
 }
 
 h2 {
-    margin-top: 35px;
+    margin-top: 24px;
     margin-bottom: 15px;
-    font-weight: 600;
+    font-weight: 400;
     font-size: 25px;
-    color: white;
+    color: #000000;
 }
 
 .page-wrap {
@@ -54,7 +54,7 @@ h2 {
     display: block;
     max-width: 513px;
     margin: 0 auto;
-    color: #111111;
+    color: #000000;
     padding: 50px 20px;
     border-radius: 5px;
     text-align: left;
@@ -92,7 +92,7 @@ form.subscribe input[type="submit"] {
     border-radius: 5px;
     font-size: 16px;
     cursor: pointer;
-    background: #fecd07;
+    background: #000000;
     color: #111111;
     font-weight: 400;
     -webkit-appearance: none;
@@ -128,16 +128,16 @@ footer a:hover {
 }
 
 .fa {
-    color: #fecd07;
+    color: #000000;
     margin: 5px;
 }
 
 img.podcast {
-    background-color: #fecd07;
+    background-color: #000000;
 }
 
 img.book {
     max-width:135px;
     border-radius: 3%;
-    border: 2px solid #fecd07;
+    border: 2px solid #000000;
 }
