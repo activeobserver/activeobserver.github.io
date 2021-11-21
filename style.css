@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    text-align: justify;
+    /*text-align: justify;*/
 }
 
 body {
@@ -105,7 +105,7 @@ form.subscribe input[type="submit"]:hover {
 footer a {
     margin-right: 10px;
     color: #7d7d7d;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 footer a:hover {
@@ -139,5 +139,5 @@ img.podcast {
 img.book {
     max-width:135px;
     border-radius: 3%;
-    border: 2px solid #000000;
+    /*border: 2px solid #000000;*/
 }
