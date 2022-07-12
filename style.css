@@ -184,6 +184,11 @@ button{
 }
 
 
+/* = Icons
+-------------------------------------------------------------- */
+.icon-lg{
+	font-size:60px!important;
+}
 
 /*  Image Protection */
 .img-protected{
@@ -292,9 +297,17 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	color:#000000!important;
 }
 
+/* Icon colour styles */
 
-/* = Custom Bric Data
--------------------------------------------------------------- */
+.icon-united-nations-blue{
+	color:#579FEC!important;
+	border-color:#579FEC!important;
+}
+.icon-byzantine{
+	color:#A922AD!important;
+	border-color:#A922AD!important;
+}
+
 
 
 
@@ -413,6 +426,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.h3-style{
 		font-size:25px;
+	}
+	.img-style{
+		width:203px;
 	}
 	
 }
