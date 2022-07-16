@@ -276,6 +276,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .img-book-unbreakab-style{
 	width:360px;
+	box-shadow:-1px 1px 6px #000000;
 }
 .btn-padding-top{
 	padding-top:96px;
@@ -284,6 +285,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h6-style{
 	font-family:"Sahel-Light";
 	margin:30px 30px 30px 30px;
+}
+.link-style{
+	font-weight:bold;
+	font-family:"Sahel-Bold";
 }
 
 /* = Colour
@@ -436,6 +441,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.h6-style{
 		font-size:12px;
+	}
+	.img-book-unbreakab-style{
+		width:270px;
+		height:270px;
 	}
 	
 }
