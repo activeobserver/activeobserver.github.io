@@ -254,7 +254,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .h1-style{
 	font-family:"Sahel-Bold";
-	font-size:40px;
+	font-size:35px;
 	direction:rtl;
 }
 .h3-style{
@@ -297,7 +297,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 /* Background colour styles */
 
 .bgc-blanched-almond{
-	background-color:#FFF1CD;
+	background-color:#cae0e6;
 }
 
 /* Text colour styles */
