@@ -43,6 +43,14 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-style: normal;
 }
 
+@font-face {
+	font-family:'Sahel';
+	src: url('./fonts/Sahel/Sahel.ttf');
+	src: url('./fonts/Sahel/Sahel.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
 /* = Blocs
 -------------------------------------------------------------- */
 
@@ -261,7 +269,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-family:"Sahel-Bold";
 }
 .p-style{
-	font-family:"Sahel-SemiBold";
+	font-family:"Sahel";
 }
 .h3-bloc-0-style{
 	font-family:"Sahel-SemiBold";
