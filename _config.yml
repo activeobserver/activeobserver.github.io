@@ -1,0 +1,37 @@
+title: Farnoush Hazrati
+bio: Political Psychologist and Personal Trainer
+description: Farnoush Hazrati | فرنوش حضرتی
+external-image: false
+picture: assets/images/profile.jpg
+dark-theme: auto
+url: "https://activeobserver.org"
+permalink: /:title/
+analytics-google: UA-122994885-1
+
+github: github
+instagram: farnoush_hazrati
+email: farrnoush1990hazrati@gmail.com
+
+books: true
+sport: true
+podcast: false
+
+width: normal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+compress_html:
+  ignore:
+    envs:
+      - development
+      - stage
+exclude:
+  [
+    "README.md",
+    "Gemfile",
+    "Gemfile.lock",
+    "FAQ.md",
+    "vendor",
+  ]

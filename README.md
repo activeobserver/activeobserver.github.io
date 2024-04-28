@@ -1,1 +1,0 @@
-<img src="https://img.shields.io/github/downloads/activeobserver/activeobserver.github.io/total?style=flat-square"/>
